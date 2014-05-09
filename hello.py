@@ -48,6 +48,9 @@ b = a
 a = "XYZ" #repoint a to "XYZ"
 print b
 
+10/3
+10/3.0
+10%3
 
 
 
